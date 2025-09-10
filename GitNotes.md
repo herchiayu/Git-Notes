@@ -23,4 +23,8 @@
   + git branch -M main
     + change branch to main
     + -m 是一般的 rename，如果新名稱已存在會失敗。
-    + -M 是強制 rename，即使已經有同名分支也會覆蓋掉。
+    + -M 是強制 rename，即使已經有同名分支也會覆蓋掉。 
+  + git branch
+    + check branch
+  + git branch -a
+    + check branch and remote
